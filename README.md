@@ -1,1 +1,2 @@
 # learnings
+Contains all the documents from courses that I am currently undertaking. Typically coding challenges, etc... Projects that I undertake (i.e. making games with a course) will typically be stored in my root repo
